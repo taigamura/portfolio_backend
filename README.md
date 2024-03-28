@@ -4,6 +4,10 @@
 
 ## Available Scripts
 
+### `npm install`
+
+Gets required packages from json
+
 In the project directory, you can run:
 
 ### `npm start`
